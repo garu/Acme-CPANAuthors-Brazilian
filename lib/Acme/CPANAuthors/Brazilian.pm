@@ -34,6 +34,7 @@ use Acme::CPANAuthors::Register (
     FERREIRA    => 'Adriano Ferreira',
     FGLOCK      => 'Flávio Soibelmann Glock',
     FRIGHETTI   => 'Fabiano Reese Righetti',
+    GABIRU      => 'Gabriel Andrade de Santana',
     GARU        => 'Breno G. de Oliveira',
     GEOJS       => 'Geovanny Junio',
     GMPASSOS    => 'Graciliano Monteiro Passos',
