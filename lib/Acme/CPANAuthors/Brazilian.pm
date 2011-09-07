@@ -13,7 +13,7 @@ use Acme::CPANAuthors::Register (
     BBUSS       => 'Bruno Caricchio Buss',
     BLABOS      => 'Wesley Dal`Col Von Doelinger',
     BNEGRAO     => 'Bruno Negrao',
-    BRASIL      => 'Sávio Menezes Sampaio',
+    BRASIL      => 'SÃ¡vio Menezes Sampaio',
     CAPOEIRAB   => 'Chase Whitener',
     CCELSO      => 'Carlos Celso de Almeida',
     CCMELO      => 'Carmo Crediney de Melo',
@@ -26,20 +26,20 @@ use Acme::CPANAuthors::Register (
     DSTH        => 'Daniel S. T. Hughes',
     EDENC       => 'Eden Cardim',
     EDUARDOW    => 'Eduardo Perotta de Almeida',
-    EMARQUES    => 'Éverton da Silva Marques',
+    EMARQUES    => 'Ã‰verton da Silva Marques',
     ENHERING    => 'Eduardo N. Hering',
     ERANGEL     => 'Eduardo Rangel Thompson',
     FALCAO      => 'Alex Falcao',
     FCO         => 'Fernando Correa de Oliveira',
     FERNANDES   => 'Rodrigo Panchiniak Fernandes',
     FERREIRA    => 'Adriano Ferreira',
-    FGLOCK      => 'Flávio Soibelmann Glock',
+    FGLOCK      => 'FlÃ¡vio Soibelmann Glock',
     FRIGHETTI   => 'Fabiano Reese Righetti',
     GABIRU      => 'Gabriel Andrade de Santana',
     GARU        => 'Breno G. de Oliveira',
     GEOJS       => 'Geovanny Junio',
     GMPASSOS    => 'Graciliano Monteiro Passos',
-    GNUSTAVO    => 'Gustavo Leite de Mendonça Chaves',
+    GNUSTAVO    => 'Gustavo Leite de MendonÃ§a Chaves',
     HERNAN      => 'Hernan Lopes',
     HODEL       => 'Paul Hodel',
     IZUT        => 'Igor Sutton',
@@ -48,7 +48,7 @@ use Acme::CPANAuthors::Register (
     KAUFMANN    => 'Rafael Kaufmann',
     KCARNUT     => 'Marco Carnut',
     LAFRAIA     => 'Daniel Lafraia',
-    LEANDRO     => 'Leandro Guimarães Faria Corcete Dutra',
+    LEANDRO     => 'Leandro GuimarÃ£es Faria Corcete Dutra',
     LFAGUNDES   => 'Luis Henrique Cassis Fagundes',
     LMC         => 'Luis Motta Campos',
     LONEWOLF    => 'Edvaldo silva de Almeida Jr',
@@ -61,7 +61,7 @@ use Acme::CPANAuthors::Register (
     MOSCONI     => 'Rodrigo Mosconi',
     NATTIS      => 'Udlei D. R. Nattis',
     NFERRAZ     => 'Nelson Ferraz',
-    NILSONSFJ   => 'Nilson Santos Figueiredo Júnior',
+    NILSONSFJ   => 'Nilson Santos Figueiredo JÃºnior',
     NUBA        => 'Nuba Rodrigues Princigalli',
     RECSKY      => 'Frederico Recsky',
     REDOX       => 'Andre',
@@ -91,7 +91,7 @@ __END__
 
 Acme::CPANAuthors::Brazilian - We are brazilian CPAN authors
 
-Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
+Acme::CPANAuthors::Brazilian - NÃ³s somos autores brasileiros no CPAN
 
 =head1 SYNOPSIS
 
@@ -111,19 +111,19 @@ Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
 This class is used to provide a hash of brazilian CPAN author's PAUSE id/name to Acme::CPANAuthors.
 
-Essa classe é usada para fornecer um hash de id/nome PAUSE de autores brasileiros no CPAN para o Acme::CPANAuthors.
+Essa classe Ã© usada para fornecer um hash de id/nome PAUSE de autores brasileiros no CPAN para o Acme::CPANAuthors.
 
 =head1 MAINTENANCE
 
 If you are a brazilian CPAN author not listed here, please send me your id/name via email, IRC, or RT so we can always keep this module up to date. If there's amistake and you're listed here but are not brazilian (or just don't want to be listed), sorry for the inconvenience: please contact me and I'll remove the entry right away.
 
-Se você é um autor brasileiro no CPAN e não está listado aqui, por favor me envie seu id/nome via email, IRC, ou RT para que possamos manter esse módulo sempre atualizado. Se houve um erro e você está listado aqui mas não é brasileiro (ou simplesmente não quer ser listado), desculpe a inconveniencia: por favor entre em contato que removerei a entrada imediatamente.
+Se vocÃª Ã© um autor brasileiro no CPAN e nÃ£o estÃ¡ listado aqui, por favor me envie seu id/nome via email, IRC, ou RT para que possamos manter esse mÃ³dulo sempre atualizado. Se houve um erro e vocÃª estÃ¡ listado aqui mas nÃ£o Ã© brasileiro (ou simplesmente nÃ£o quer ser listado), desculpe a inconveniencia: por favor entre em contato que removerei a entrada imediatamente.
 
 =head1 SEE ALSO
 
 L<Acme::CPANAuthors> - Main class to manipulate this one (Classe principal para manipular esta)
 
-L<Acme::CPANAuthors::Japanese> - Code and documentation nearly taken verbatim from it (Código e documentação copiadas daqui quase verbatim)
+L<Acme::CPANAuthors::Japanese> - Code and documentation nearly taken verbatim from it (CÃ³digo e documentaÃ§Ã£o copiadas daqui quase verbatim)
 
 =head1 AUTHOR
 
@@ -138,4 +138,4 @@ Copyright (C) 2008-2011 by Breno G. de Oliveira.
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
 
-Este programa é software livre; você pode redistribuí-lo e/ou modificá-lo sob os mesmo termos do Perl.
+Este programa Ã© software livre; vocÃª pode redistribuÃ­-lo e/ou modificÃ¡-lo sob os mesmo termos do Perl.
