@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.18';
+our $VERSION = '0.19';
 
 use Acme::CPANAuthors::Register (
     AGUIMARA    => 'Andre Guimaraes',
