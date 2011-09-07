@@ -67,6 +67,7 @@ use Acme::CPANAuthors::Register (
     REDOX       => 'Andre',
     RENTOCRON   => 'Renato Santos de Souza',
     RMALAFAIA   => 'Ricardo Malafaia Senra Barros',
+    RSARAN      => 'Rogerio Saran',
     RSD         => 'Raul Dias',
     RUSSOZ      => 'Alexei Znamensky',
     RVR         => 'Renan Valente Rangel',
