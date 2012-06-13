@@ -7,6 +7,7 @@ use utf8;
 our $VERSION = '0.19';
 
 use Acme::CPANAuthors::Register (
+    ACPGUEDES   => 'Aureliano Coelho Proença Guedes',
     AGUIMARA    => 'Andre Guimaraes',
     ARFREITAS   => 'Alceu Rodrigues de Freitas Junior',
     ARVIEGAS    => 'Andre Rodrigues Viegas',
