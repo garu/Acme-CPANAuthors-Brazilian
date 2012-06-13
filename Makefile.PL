@@ -10,7 +10,6 @@ WriteMakefile(
     PREREQ_PM => {
         'Acme::CPANAuthors'         => 0,
         'Test::More'                => 0.47,
-        'Test::UseAllModules'       => 0,
     },
     ($ExtUtils::MakeMaker::VERSION >= 6.31
         ? ( LICENSE => 'perl' )
