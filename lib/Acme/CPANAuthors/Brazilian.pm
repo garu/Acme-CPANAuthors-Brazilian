@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.19';
+our $VERSION = '0.20';
 
 use Acme::CPANAuthors::Register (
     ACPGUEDES   => 'Aureliano Coelho Proença Guedes',
