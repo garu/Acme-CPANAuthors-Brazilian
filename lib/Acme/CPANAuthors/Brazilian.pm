@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.20';
+our $VERSION = '0.21';
 
 use Acme::CPANAuthors::Register (
     ACPGUEDES   => 'Aureliano Coelho Proença Guedes',
@@ -50,6 +50,7 @@ use Acme::CPANAuthors::Register (
     KCARNUT     => 'Marco Carnut',
     LAFRAIA     => 'Daniel Lafraia',
     LEANDRO     => 'Leandro Guimarães Faria Corcete Dutra',
+    LEOBALTER   => 'Leonardo Balter',
     LFAGUNDES   => 'Luis Henrique Cassis Fagundes',
     LMC         => 'Luis Motta Campos',
     LONEWOLF    => 'Edvaldo silva de Almeida Jr',
