@@ -9,6 +9,7 @@ our $VERSION = '0.21';
 use Acme::CPANAuthors::Register (
     ACPGUEDES => 'Aureliano Coelho Proença Guedes',
     AGUIMARA  => 'Andre Guimaraes',
+    ALEBORBA  => 'Alexandre Alves Borba',
     ARFREITAS => 'Alceu Rodrigues de Freitas Junior',
     ARVIEGAS  => 'Andre Rodrigues Viegas',
     BBUSS     => 'Bruno Caricchio Buss',
@@ -55,6 +56,7 @@ use Acme::CPANAuthors::Register (
     LMC       => 'Luis Motta Campos',
     LONEWOLF  => 'Edvaldo silva de Almeida Jr',
     LORN      => 'Lindolfo Rodrigues de Oliveira Neto',
+    LRUOSO    => 'Leonardo Ruoso',
     MAGO      => 'Marco Lima',
     MANTOVANI => 'Daniel de Oliveira Mantovani',
     MARCIO    => 'Marcio de Souza Ferreira',
