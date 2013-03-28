@@ -10,6 +10,7 @@ use Acme::CPANAuthors::Register (
     ACPGUEDES => 'Aureliano Coelho Proença Guedes',
     AGUIMARA  => 'Andre Guimaraes',
     ALEBORBA  => 'Alexandre Alves Borba',
+    ALVARO    => 'Álvaro Luiz Andrade',
     ARFREITAS => 'Alceu Rodrigues de Freitas Junior',
     ARVIEGAS  => 'Andre Rodrigues Viegas',
     BBUSS     => 'Bruno Caricchio Buss',
