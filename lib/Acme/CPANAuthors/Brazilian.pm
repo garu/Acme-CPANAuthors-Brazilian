@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.23';
+our $VERSION = '0.24';
 
 use Acme::CPANAuthors::Register (
     ACPGUEDES => 'Aureliano Coelho Proença Guedes',
@@ -27,6 +27,7 @@ use Acme::CPANAuthors::Register (
     DONATOAZ  => 'Donato Azevedo',
     DRUOSO    => 'Daniel Ruoso',
     DSTH      => 'Daniel S. T. Hughes',
+    DVINCI    => 'Daniel Vinciguerra',
     EDENC     => 'Eden Cardim',
     EDUARDOW  => 'Eduardo Perotta de Almeida',
     EMARQUES  => 'Éverton da Silva Marques',
@@ -53,6 +54,7 @@ use Acme::CPANAuthors::Register (
     LAFRAIA   => 'Daniel Lafraia',
     LEANDRO   => 'Leandro Guimarães Faria Corcete Dutra',
     LEOBALTER => 'Leonardo Balter',
+    LEOBETO   => 'Leonardo Alberto Souza',
     LFAGUNDES => 'Luis Henrique Cassis Fagundes',
     LMC       => 'Luis Motta Campos',
     LONEWOLF  => 'Edvaldo silva de Almeida Jr',
@@ -71,6 +73,7 @@ use Acme::CPANAuthors::Register (
     RECSKY    => 'Frederico Recsky',
     REDOX     => 'Andre',
     RENTOCRON => 'Renato Santos de Souza',
+    RLOPES    => 'Rafael Oliveira Lopes',
     RMALAFAIA => 'Ricardo Malafaia Senra Barros',
     RSARAN    => 'Rogerio Saran',
     RSD       => 'Raul Dias',
@@ -85,6 +88,7 @@ use Acme::CPANAuthors::Register (
     TSV       => 'Thiago de Souza Vieira',
     WREIS     => 'Wallace Reis',
     WORM      => 'Joner Cyrre Worm',
+    XRENAN    => 'Renan Azevedo de Carvalho',
 );
 
 1;
@@ -138,7 +142,7 @@ Breno G. de Oliveira E<lt>garu at cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2008-2011 by Breno G. de Oliveira.
+Copyright (C) 2008-2014 by Breno G. de Oliveira.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
