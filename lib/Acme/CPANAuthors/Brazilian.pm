@@ -44,6 +44,7 @@ use Acme::CPANAuthors::Register (
     GEOJS     => 'Geovanny Junio',
     GMPASSOS  => 'Graciliano Monteiro Passos',
     GNUSTAVO  => 'Gustavo Leite de Mendonça Chaves',
+    GONCALES  => 'Ítalo Buono Gonçales',
     HERNAN    => 'Hernan Lopes',
     HODEL     => 'Paul Hodel',
     IZUT      => 'Igor Sutton',
