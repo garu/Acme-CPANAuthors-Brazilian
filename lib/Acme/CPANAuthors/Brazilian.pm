@@ -40,6 +40,7 @@ use Acme::CPANAuthors::Register (
     FGLOCK    => 'Flávio Soibelmann Glock',
     FRIGHETTI => 'Fabiano Reese Righetti',
     GABIRU    => 'Gabriel Andrade de Santana',
+    GABRIEL   => 'Gabriel Vieira',
     GARU      => 'Breno G. de Oliveira',
     GEOJS     => 'Geovanny Junio',
     GMPASSOS  => 'Graciliano Monteiro Passos',
