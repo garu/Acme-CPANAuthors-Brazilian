@@ -43,6 +43,7 @@ use Acme::CPANAuthors::Register (
     GABRIEL   => 'Gabriel Vieira',
     GARU      => 'Breno G. de Oliveira',
     GEOJS     => 'Geovanny Junio',
+    GILS      => 'Gil Magno Silva',
     GMPASSOS  => 'Graciliano Monteiro Passos',
     GNUSTAVO  => 'Gustavo Leite de Mendonça Chaves',
     GONCALES  => 'Ítalo Buono Gonçales',
