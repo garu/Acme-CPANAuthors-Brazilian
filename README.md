@@ -1,14 +1,17 @@
 Acme::CPANAuthors::Brazilian
-============================
+----------------------------
 
 _Nós somos os autores brasileiros no CPAN!_
 
 _We are brazilian CPAN authors!_
 
+[![Build Status](https://travis-ci.org/garu/Acme-CPANAuthors-Brazilian.svg?branch=master)](https://travis-ci.org/garu/Acme-CPANAuthors-Brazilian)
+[![CPAN version](https://badge.fury.io/pl/Acme-CPANAuthors-Brazilian.svg)](http://badge.fury.io/pl/Acme-CPANAuthors-Brazilian)
+
 ### Oi? ###
 
 Essa classe é usada para fornecer um hash com id/nome PAUSE de
-todos os autores brasileiros no CPAN :)
+todos os autores brasileiros no [CPAN](https://metacpan.org) :)
 
     use Acme::CPANAuthors;
     use Acme::CPANAuthors::Brazilian;
@@ -24,13 +27,13 @@ todos os autores brasileiros no CPAN :)
 
 ### Não achei meu nome! ###
 
-Se você é um autor brasileiro no [CPAN](https://metacpan.org) e
-não está listado aqui, por favor envie seu id/nome via Pull Request
-no Github, email, IRC, o que achar melhor, para que possamos manter
-esse módulo sempre atualizado. Se houve um erro e você está listado
-aqui mas não é brasileiro (ou simplesmente não quer ser listado),
-desculpe a inconveniencia: por favor entre em contato que removeremos
-a entrada imediatamente.
+Se você é um autor brasileiro no CPAN e não está listado aqui,
+por favor envie seu id/nome via Pull Request no Github, email,
+IRC, o que achar melhor, para que possamos manter esse módulo
+sempre atualizado. Se houve um erro e você está listado aqui
+mas não é brasileiro (ou simplesmente não quer ser listado),
+desculpe a inconveniencia: por favor entre em contato que
+removeremos a entrada imediatamente.
 
 
 ### Instalação / Installation ###
