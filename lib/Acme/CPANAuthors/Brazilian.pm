@@ -105,6 +105,10 @@ Acme::CPANAuthors::Brazilian - We are brazilian CPAN authors
 
 Acme::CPANAuthors::Brazilian - Nós somos autores brasileiros no CPAN
 
+=for html
+<a href="http://badge.fury.io/pl/Acme-CPANAuthors-Brazilian"><img src="https://badge.fury.io/pl/Acme-CPANAuthors-Brazilian.svg" alt="CPAN version" height="18"></a>
+<a href="https://travis-ci.org/garu/Acme-CPANAuthors-Brazilian"><img src="https://travis-ci.org/garu/Acme-CPANAuthors-Brazilian.svg?branch=master"></a>
+
 =head1 SYNOPSIS
 
    use Acme::CPANAuthors;
