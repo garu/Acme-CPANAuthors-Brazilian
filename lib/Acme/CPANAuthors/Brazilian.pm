@@ -17,6 +17,7 @@ use Acme::CPANAuthors::Register (
     BLABOS    => 'Wesley Dal`Col Von Doelinger',
     BNEGRAO   => 'Bruno Negrao',
     BRASIL    => 'Sávio Menezes Sampaio',
+    CAFEGRATZ => 'Carlos Fernando Avila Gratz',
     CAPOEIRAB => 'Chase Whitener',
     CCELSO    => 'Carlos Celso de Almeida',
     CCMELO    => 'Carmo Crediney de Melo',
