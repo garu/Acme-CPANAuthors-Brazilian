@@ -74,6 +74,7 @@ use Acme::CPANAuthors::Register (
     NFERRAZ   => 'Nelson Ferraz',
     NILSONSFJ => 'Nilson Santos Figueiredo Júnior',
     NUBA      => 'Nuba Rodrigues Princigalli',
+    PACMAN    => 'Tiago Barcellos Peczenyj',
     RECSKY    => 'Frederico Recsky',
     REDOX     => 'Andre',
     RENTOCRON => 'Renato Santos de Souza',
