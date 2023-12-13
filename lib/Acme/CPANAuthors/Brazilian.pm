@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.28';
+our $VERSION = '0.29';
 
 use Acme::CPANAuthors::Register (
     ACPGUEDES => 'Aureliano Coelho Proença Guedes',
@@ -151,7 +151,7 @@ Breno G. de Oliveira E<lt>garu at cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2008-2018 by Breno G. de Oliveira.
+Copyright (C) 2008-2023 by Breno G. de Oliveira.
 
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
